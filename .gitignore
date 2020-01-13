@@ -126,3 +126,4 @@ dmypy.json
 ../.idea/
 *.log.*
 */static_deploy/*
+.idea
