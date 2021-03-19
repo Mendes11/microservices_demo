@@ -1,5 +1,5 @@
 Django>=2,<3
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 markdown
 python-decouple==3.1
 django-filter==2.1.0
